@@ -1,4 +1,4 @@
-# Projeto de Avaliação
+# ExtracaoNFe
 
 <img src="https://img.shields.io/badge/Status-Desenvolvimento-blue"/>
 
@@ -52,13 +52,13 @@ Este projeto consiste em uma API REST desenvolvida em Python para processar imag
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Compass-pb-aws-2025-JANEIRO/sprints-4-5-6-pb-aws-janeiro.git
+git clone https://github.com/CarlosEduardo-067/ExtracaoNFe.git
 ```
 
 ### 2. Acesse o diretório do projeto:
 
 ```bash
-cd sprints-4-5-6-pb-aws-janeiro
+cd ExtracaoNFe/
 ```
 
 ### 3. Alterar credenciais no arquivo settings:
